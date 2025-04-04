@@ -30,13 +30,14 @@ colcon build
 
 ```
  ros2 run turtlebot_controller teleop 
-
-## 📹 Demo Videos
+```
+> Part 1 of the ENPM690 Homework 3 Assignment – Teleoperation with TurtleBot3 in ROS 2 Gazebo
+ ## 📹 Demo Videos
 
 ### ▶️ Teleoperation Demo
+
 [![Watch on YouTube](https://img.youtube.com/vi/tAV2gOcpOVM/0.jpg)](https://youtu.be/tAV2gOcpOVM)
 
-> Part 1 of the ENPM690 Homework 3 Assignment – Teleoperation with TurtleBot3 in ROS 2 Gazebo
 
 
 # Part 2: Autonomous Behavior
