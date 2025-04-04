@@ -49,6 +49,13 @@ colcon build
  ros2 run turtlebot_controller autonomous 
 
 ```
+## 📹 Demo Video
+
+### ▶️ Autonomous Behavior Demo
+
+[![Watch on YouTube](https://img.youtube.com/vi/QekpGmyAMr8/0.jpg)](https://youtu.be/QekpGmyAMr8)
+
+> Part 2 of the ENPM690 Homework 3 Assignment – Obstacle Avoidance using LIDAR and Bug Algorithm
 
 
 #Software and Packages Used:
